@@ -6,5 +6,5 @@ It contains Problems for various Topics such as Joins, Subqueries, and Aggregati
 
 
 
-### **Important Notes form from the Solved Problems**
+## **Important Notes form from the Solved Problems**
 
