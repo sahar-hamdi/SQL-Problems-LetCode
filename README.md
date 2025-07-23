@@ -13,4 +13,4 @@ It contains Problems for various Topics such as Joins, Subqueries, and Aggregati
 - To get the answer Rounded by 2 digits we use ROUND(value, 2)
 
 **For Problem with ID 1174**
-- to get answer between to dates or in a specific interval we **SELECT** the part we don't need to select it then we exclude it using ** WHERE NOT IN (    )**
+- to get answer between to dates or in a specific interval we **SELECT** the part we don't need to select it then we exclude it using **WHERE NOT IN (    )**
