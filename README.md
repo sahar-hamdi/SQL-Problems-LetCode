@@ -8,3 +8,6 @@ It contains Problems for various Topics such as Joins, Subqueries, and Aggregati
 
 ## **Important Notes form from the Solved Problems**
 
+**For Problem with ID 1161**
+
+- To get the answer Rounded by 2 digits we use ROUND(value, 2)
